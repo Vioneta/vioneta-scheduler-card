@@ -5,6 +5,6 @@ README.html
 .vscode
 ._*
 stats.html
-dist/
+# dist/
 !dist/scheduler-card.js
 .history
